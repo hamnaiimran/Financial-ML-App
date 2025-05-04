@@ -4,6 +4,9 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+@st.cache_data  # Must come AFTER set_page_config
+def load_data():
+    return pd.read_csv(...)
 import streamlit as st
 import pandas as pd
 import numpy as np
