@@ -1,3 +1,9 @@
+st.set_page_config(
+    page_title="Financial ML App",
+    page_icon="📈",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 import streamlit as st
 import pandas as pd
 import numpy as np
