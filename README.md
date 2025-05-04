@@ -15,7 +15,7 @@ Using machine learning to model financial data sets.
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://financial-ml-app.streamlit.app/)
 
 ## 📱 Demo Video
-[![Watch Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/dQw4w9WgXcQ)
+
 
 ## 📂 GitHub Repository
 🔗 [github.com/hamnaiimran/financial-ml-app](https://github.com/hamnaiimran/financial-ml-app)
